@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm jeongmin Yoon!
 ### Tech Stack 💻
+<img src="https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000?style=flat-square&logo=RubyonRails&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
